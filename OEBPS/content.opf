@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="3.0" unique-identifier="BookId" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Sebuah Cerita Malam Ini</dc:title>
+    <dc:language>id</dc:language>
+    <dc:date>2026-04-26</dc:date>
+    <meta property="schema:firstPublisher">Pustaka Rakyat</meta>
+    <meta property="publicationYear">1952</meta>
+    <dc:publisher>MasasilaM</dc:publisher>
+    <meta property="dcterms:modified">2026-07-20T13:52:58Z</meta>
+    <dc:description>&quot;Sebuah Cerita Malam Ini&quot; karya S. Rukiah adalah sebuah rekaman tentang kamar yang telah berubah menjadi perbatasan yang sunyi antara nafas yang sesak dan dunia yang riuh di balik dinding. Di sana, dalam kancah &quot;malam panjang&quot; yang dihuni oleh gema batuk dan bau minyak kayu putih, kita menemui tokoh utama—sebuah subyek yang buncah, yang mencoba merumuskan kembali dirinya di tengah fragmen-fragmen nasib yang tampak tak adil. Penyakit di sini bukan sekadar perkara medis, melainkan sebuah jarak sosial yang memisahkan &quot;yang sakit&quot; dari &quot;yang sehat,&quot; sebuah pengucilan yang membuat kecupan pada anak kecil menjadi barang terlarang dan tikar sembahyang terasa seperti pekuburan. Melalui narasi yang liris namun tajam, Rukiah memaparkan ketegangan antara kerinduan untuk berbuat jasa di kancah publik dan keengganan untuk menyerah pada kategori-kategori yang dipaksakan, mengingatkan kita bahwa barangkali setiap kesendirian yang paling dalam adalah sebuah pemberontakan yang belum sudah terhadap maut dan kepastian.</dc:description>
+    <dc:subject>Fiksi</dc:subject>
+    <dc:subject>Koleksi Sastra</dc:subject>
+    <dc:subject>Psikologi</dc:subject>
+    <dc:rights>CC BY-SA 4.0</dc:rights>
+    <dc:source>https://x.com/dallaballer/status/2028799054344237553</dc:source>
+    <meta property="dcterms:modified">2026-07-17T21:09:46Z</meta>
+    <dc:creator id="creator">S. Rukiah</dc:creator>
+    <meta refines="#creator" property="alternate-script" xml:lang="id">S. Rukiah</meta>
+    <meta refines="#creator" property="file-as">Kertapati, Siti Rukiah</meta>
+    <meta refines="#creator" property="role" scheme="marc:relators">aut</meta>
+    <meta refines="#creator" property="schema:birthDate">1927-04-25</meta>
+    <meta refines="#creator" property="schema:birthPlace">Purwakarta, Jawa Barat, Hindia Belanda</meta>
+    <meta refines="#creator" property="schema:deathDate">1996-06-06</meta>
+    <meta refines="#creator" property="schema:deathPlace">Purwakarta, Jawa Barat, Indonesia</meta>
+    <meta refines="#creator" property="schema:description">Siti Rukiah Kertapati (1927–1996), dikenal dengan nama pena S. Rukiah, adalah sastrawan Indonesia dari Angkatan 45 yang menulis roman, cerpen, puisi, dan cerita anak. Lulusan Sekolah Guru (CVO), ia mengajar di Purwakarta sebelum pindah ke Jakarta pada 1950 dan menjadi sekretaris majalah sastra Poedjangga Baroe. Ia juga menjadi redaktur di majalah Bintang Timur/Lentera bersama Pramoedya Ananta Toer, serta penyunting majalah anak-anak Cendrawasih. Anggota Pimpinan Pusat Lembaga Kebudayaan Rakyat (Lekra) sejak 1959 hingga 1965. Kumpulan cerpen dan puisinya, Tandus (1952), memenangkan Hadiah Sastra Nasional BMKN. Pasca tragedi 1965, ia mengalami trauma mendalam dan berhenti menulis; namanya kemudian sengaja dihapus dari sejarah sastra Indonesia modern karena afiliasinya dengan Lekra.</meta>
+    <meta refines="#creator" property="schema:image">https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/8FEF/production/_104374863_rukiah2.jpg.webp</meta>
+    <meta refines="#creator" property="schema:nationality">Indonesia</meta>
+    <dc:contributor id="cover-artist">Albrecht Dürer</dc:contributor>
+    <meta refines="#cover-artist" property="file-as">Albrecht Dürer</meta>
+    <meta refines="#cover-artist" property="role" scheme="marc:relators">art</meta>
+    <dc:contributor id="con">Fajar Andika</dc:contributor>
+    <meta refines="#con" property="role" scheme="marc:relators">trc</meta>
+    <dc:contributor id="con001">Fitrisia Indah</dc:contributor>
+    <meta refines="#con001" property="role" scheme="marc:relators">edt</meta>
+    <meta property="belongs-to-collection" id="collection-1">Karya Siti Rukiah Kertapati</meta>
+    <meta refines="#collection-1" property="collection-type">series</meta>
+    <meta id="num">1952</meta>
+    <dc:identifier id="BookId">urn:uuid:b9e51d3a-4c72-4f8e-ad63-f2c840b7e509</dc:identifier>
+    <meta name="Sigil version" content="2.8.0"/>
+    <meta name="cover" content="cover.jpg"/>
+  </metadata>
+  <manifest>
+    <item id="JUDUL.xhtml" href="Text/JUDUL.xhtml" media-type="application/xhtml+xml"/>
+    <item id="nav.xhtml" href="Text/nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="KOLOFON.xhtml" href="Text/KOLOFON.xhtml" media-type="application/xhtml+xml"/>
+    <item id="Section0003.xhtml" href="Text/Section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item id="UNCOPYRIGHTED.xhtml" href="Text/UNCOPYRIGHTED.xhtml" media-type="application/xhtml+xml"/>
+    <item id="sgc-nav.css" href="Styles/masasilam.css" media-type="text/css"/>
+    <item id="logo.svg" href="Images/logo.svg" media-type="image/svg+xml"/>
+    <item id="x1a.webp" href="Images/1.webp" media-type="image/webp"/>
+    <item id="cover.jpg" href="Images/cover.jpg" media-type="image/jpeg" properties="cover-image"/>
+  </manifest>
+  <spine>
+    <itemref idref="JUDUL.xhtml"/>
+    <itemref idref="KOLOFON.xhtml"/>
+    <itemref idref="nav.xhtml" linear="no"/>
+    <itemref idref="Section0003.xhtml"/>
+    <itemref idref="UNCOPYRIGHTED.xhtml"/>
+  </spine>
+</package>
